@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  color: #aaa;
+  background-color: cyan;
+  font-size: 45px;
+  font-weight: 250px;
+  text-align: center;
+}
+strong {
+  color: black;
+}
+h3 {
+  text-align: left;
+}
+nav {
+  text-align: left;
+}
+main {
+  text-align: center;
+}
